@@ -1,6 +1,6 @@
 # What is SMP?
 
-SMP(Smart Market Protocol) is an experimental digital protocol that enables instant market survey and trade to anyone, anywhere in the world. SMP uses Ethereum's peer-to-peer technology to operate with no central authority: managing transactions are carried out collectively by the network. SMP is the name of open source software which enables smartcontract-based makert.
+SMP(Smart Market Protocol) is an experimental digital protocol that enables instant market survey and trade to anyone, anywhere in the world. SMP uses Ethereum's peer-to-peer technology to operate with no central authority: managing transactions are carried out collectively by the network. SMP is the name of open source software which enables smartcontract-based market.
 
 For more information, see http://smprotocol.net/index.html .
 
