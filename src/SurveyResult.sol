@@ -22,12 +22,11 @@ contract SurveyResult{
         hrpNumber[_address] = _hrp;
     }  
 
-    function setPrice(address _address)(){
+    function setPrice(address _address){
         uint lrp;
         uint pp;
         uint np;
         uint hrp;
-        string memory ret;
         
         for(uint i = 0 ;i < 20; i++){
             if (lrpNumber[_address] == i) lrp = priceList[_address][i]; 
